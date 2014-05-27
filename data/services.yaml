@@ -1,3 +1,12 @@
+kitiwa:
+  label: Kitiwa
+  icon: http://kitiwa.com/favicon.ico
+  countries: [gh]
+  url: http://kitiwa.com
+  content:|
+      <p>Buy bitcoins in Ghana with Mobile Money or Bank Transfers. This is the easiest and fastest way to buy Bitcoins in Ghana. Receive your Bitcoins within 30 minutes.</p>
+  coins: [btc]
+
 cointrader:
   label: Cointrader.net
   icon: https://www.cointrader.net/favicon.ico.png
